@@ -49,7 +49,7 @@ Este proyecto se enfoca en el procesamiento de lenguaje natural (NLP) y técnica
 
 ## 🚀 Pre-requisitos e Instalación
 
-Para ejecutar estos notebooks en tu entorno local, asegúrate de tener instalado Python 3.x. Todas las dependencias necesarias (incluyendo modelos de NLP y algoritmos de clustering) están documentadas en el archivo `requirements.txt`.
+Para ejecutar estos notebooks en tu entorno local, asegúrate de tener instalado Python 3.12. Todas las dependencias necesarias (incluyendo modelos de NLP y algoritmos de clustering) están documentadas en el archivo `requirements.txt`.
 
 Sigue estos pasos en tu terminal:
 
