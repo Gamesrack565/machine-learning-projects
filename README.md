@@ -8,10 +8,15 @@ Este repositorio contiene implementaciones prácticas de algoritmos de Machine L
 
 ```text
 ├── aprendizaje-supervisado/
-│   ├── Proyecto_supervizado.ipynb        # Notebook con el análisis y modelo
-│   └── diabetes_procesado.xml       # Dataset tabular en formato XML
+│   ├── Proyecto_supervizado.ipynb              # Notebook con el análisis y modelo
+│   └── diabetes_procesado.xml                  # Dataset tabular en formato XML
 ├── no-supervisado/
-│   └── Proyecto_no_supervizado.ipynb        # Notebook con el modelo no supervisado
+│   └── Proyecto_no_supervizado.ipynb           # Notebook con el modelo no supervisado
+|
+├── tareas/
+|   ├── instrucciones_tareas
+|   ├── tarea1.pdf
+|   └── tarea2.ipynb
 ├── .gitignore
 ├── requeriments.txt
 └── README.md

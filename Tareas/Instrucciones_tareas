@@ -1,0 +1,41 @@
+Instrucciones de TAREAS:
+
+Tarea 1 ----------------------------------------------------------------
+Actividad: Analizar la formulación de un problema de Machine Learning 
+
+Contexto
+
+Se desea analizar el siguiente planteamiento:
+
+“Queremos usar un modelo para aprobar créditos automáticamente y reducir tiempos de respuesta que mejoren la experiencia del cliente. Sin embargo, también buscamos minimizar el riesgo de incumplimiento y mantener la rentabilidad del portafolio. Idealmente, el sistema debería aprobar más solicitudes que el esquema actual, pero sin incrementar significativamente la tasa de morosidad.”
+
+Instrucciones
+A partir del planteamiento anterior, desarrolla un análisis estructurado que incluya los siguientes apartados:
+
+* Analiza críticamente el planteamiento original para detectar ambigüedades y conflictos con el planteamiento
+
+* Identifica elementos que no estén completamente definidos y cuáles son los datos que deberíamos usar como entrada y salida
+
+* Identifica supuestos implícitos y fuentes de posibles sesgos
+
+* Describe el impacto potencial de los posibles sesgos y errores de definición
+
+* Propón las métricas más adecuadas para evaluar el modelo
+
+--------------------------------------------------------------------------
+
+
+
+
+Tarea 2 ------------------------------------------------------------------
+Utiliza el conjunto de datos Palmer Penguins de sklearn para trabajar con los siguientes algoritmos:
+
+K-means
+KNN (k-Nearest Neighbors)
+Árbol de decisión
+Instrucciones:
+
+* Para cada algoritmo, explica de manera clara si funciona y qué parámetros has usado.
+* Presenta todo el ejercicio en un Notebook. Utiliza Markdown para organizar tu trabajo, haciendo que sea fácil de leer y entender. Añade comentarios y secciones para que quede bien estructurado.
+* Aplica técnicas de imputación para tratar los datos que faltan. Explica qué método de imputación usas y por qué lo has elegido. Justifica cómo ayuda a mejorar el análisis de los datos.
+* Interpreta los resultados de cada algoritmo. Explica qué significan los resultados obtenidos y cómo ayudan a entender los datos. Comenta si los modelos funcionan bien y qué conclusiones puedes sacar de cada uno.
